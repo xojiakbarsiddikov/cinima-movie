@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/bacend/backend/my-nest-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend/shops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+  </component>
+</project>
